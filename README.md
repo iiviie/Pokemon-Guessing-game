@@ -20,7 +20,7 @@ Go to the project directory
 
 Install dependencies
 
-assuming you already have node.js installed , if not install node.js first to use npm (node package manager). 
+Assuming you already have node.js installed , if not install node.js first to use npm (node package manager). 
 
 ```bash
   npm install
